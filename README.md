@@ -16,7 +16,7 @@ A voice-powered to-do app that turns your speech into actionable tasks. Just spe
 
 ### 1\. Clone the repository
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   bashCopyEditgit clone https://github.com/your-username/voice-notes-todo-app.git  cd voice-notes-todo-app   `
+`bashCopyEditgit clone https://github.com/your-username/voice-notes-todo-app.git  cd voice-notes-todo-app   `
 
 
 > ⚠️ You can skip this step — the app runs completely in-browser by opening index.html.
